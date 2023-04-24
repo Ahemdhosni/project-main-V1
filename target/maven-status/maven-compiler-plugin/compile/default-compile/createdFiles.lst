@@ -1,0 +1,12 @@
+com\axa\pages\RfqListPage.class
+com\axa\utilities\PropertyFileSetup.class
+com\axa\pages\LoginPage.class
+com\axa\utilities\BrowserActions.class
+com\axa\utilities\StaticProvider.class
+com\axa\pages\HomePage.class
+com\axa\pages\BasePage.class
+com\axa\pages\RequestAQuotationPage.class
+com\axa\utilities\DriverSetup.class
+com\axa\utilities\ExcelReadFile.class
+com\axa\pages\SubscribtionPage.class
+com\axa\utilities\Constants.class

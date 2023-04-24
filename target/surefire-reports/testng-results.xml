@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-22T22:57:45 EET" name="com.axa.tests.BaseTest" finished-at="2023-04-22T22:57:45 EET" duration-ms="9">
+    <groups>
+    </groups>
+    <test started-at="2023-04-22T22:57:45 EET" name="Command line test" finished-at="2023-04-22T22:57:45 EET" duration-ms="9">
+      <class name="com.axa.tests.BaseTest">
+        <test-method is-config="true" signature="setUpReport()[pri:0, instance:com.axa.tests.BaseTest@67b467e9]" started-at="2023-04-22T22:57:45 EET" name="setUpReport" finished-at="2023-04-22T22:57:45 EET" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpReport -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.axa.tests.BaseTest@67b467e9]" started-at="2023-04-22T22:57:45 EET" name="tearDown" finished-at="2023-04-22T22:57:45 EET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.axa.tests.BaseTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.axa.tests.BaseTest -->
+</testng-results>

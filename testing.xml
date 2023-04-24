@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite thread-count="1" verbose="1" name="com.axa.tests" annotations="JDK" parallel="tests">
+    <test name="ValidLogInTest">
+        <classes>
+<!--            <class name="com.axa.tests.ValidLoginTest"/>-->
+            <class name="com.axa.tests.CreateQuotation"/>
+        </classes>
+    </test>
+
+
+</suite>
